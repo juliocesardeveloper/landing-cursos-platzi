@@ -1,9 +1,9 @@
-# landing-cursos-platzi
-Ejercicio 3 del curso CSS grid layout de Platzi: 
-Grid style del landing page de los cusros de Platzi.
+# Platzi courses landing
+This is the 3rd exercise of CSS grid layout course from Platzi: 
+Grid style from the Platzi courses landing page.
 
 ## El ejercicio lo puedes ver en:
-[Landing cursos Platzi](https://juliocesardeveloper.github.io/landing-cursos-platzi/)
+[Platzi courses landing](https://juliocesardeveloper.github.io/landing-cursos-platzi/)
 
 
-Espero ir evolucionando éste ejercicio a medida que vaya adquiriendo más skills en frontend.
+I hope to evolve this exercise as I acquire more skills in frontend.
