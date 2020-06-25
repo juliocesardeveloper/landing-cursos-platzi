@@ -4,3 +4,6 @@ Grid style del landing page de los cusros de Platzi.
 
 ## El ejercicio lo puedes ver en:
 [Landing cursos Platzi](https://juliocesardeveloper.github.io/landing-cursos-platzi/)
+
+
+Espero ir evolucionando éste ejercicio a medida que vaya adquiriendo más skills en frontend.
